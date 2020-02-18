@@ -1,5 +1,5 @@
 ## Management
-본 프로젝트는 React 관리시스템이다. Management
+본 프로젝트는 React 관리(Management)시스템이다. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
